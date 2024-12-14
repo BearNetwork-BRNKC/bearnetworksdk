@@ -1,0 +1,14 @@
+{
+    "name": "brnkc-sdk",
+    "version": "1.0.0",
+    "description": "A comprehensive SDK to interact with the Bear Network Blockchain, supporting wallet integration, transaction signing, and network validation via Web3.js.",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "node test/sdk.test.js"
+    },
+    "dependencies": {
+        "web3": "^4.16.0"
+    },
+    "author": "Bear Network Blockchain",
+    "license": "MIT"
+}
