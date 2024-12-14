@@ -28,7 +28,7 @@
 通過 Git 下載安裝：
 
 ```bash
-git clone https://github.com/your-repository/bearnetworksdk.git
+git clone https://github.com/BearNetwork-BRNKC/bearnetworksdk.git
 
 cd bearnetworksdk
 
@@ -43,7 +43,7 @@ npm install web3
 
 在使用 SDK 前，請將 MetaMask 或其他支持自定義 RPC 的錢包配置如下：
 
-- **RPC URL**: `https://brnkc-mainnet.bearnetwork.net`
+- **RPC URL**: `[https://brnkc-mainnet.bearnetwork.net](https://brnkc-mainnet.bearnetwork.net)`
 - **鏈 ID**: `641230`
 - **代幣名稱**: `BRNKC`
 
